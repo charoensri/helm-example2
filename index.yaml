@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  serihc2test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-26T15:53:59.050080906+11:00"
+    description: A Helm chart for Kubernetes
+    digest: 3a6b49441121d113cab05ca20b6238690f5fd59c1b0e003eaf06097dd10e8762
+    name: serihc2test
+    type: application
+    urls:
+    - https://charoensri.github.io/helm-example2/serihc2test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-26T15:53:59.04936378+11:00"
